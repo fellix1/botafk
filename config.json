@@ -1,0 +1,9 @@
+{
+	"ip":"rusdichan.aternos.me",
+	"port": "32842",
+	"name": "BotnyaRio",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
